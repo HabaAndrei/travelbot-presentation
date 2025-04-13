@@ -4,7 +4,7 @@ import Link from 'next/link';
 export default function Home() {
   return (
     <div className=" items-center justify-items-center p-8 pb-20 sm:p-20 font-[family-name:var(--font-geist-sans)]">
-      <main className="flex flex-col row-start-2 items-center">
+      <div className="flex flex-col row-start-2 items-center">
         <GeneralDescription/>
 
         <Link
@@ -15,7 +15,7 @@ export default function Home() {
           Functionalities
         </Link>
 
-      </main>
+      </div>
     </div>
   );
 }
