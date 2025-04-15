@@ -8,7 +8,7 @@ export default function Functionalities() {
       <Presentation/>
 
       <Link
-        className="rounded-full border border-solid border-black/[.08] flex items-center justify-center bg-[#f2f2f2] font-medium text-black text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 w-full sm:w-auto md:w-[158px]"
+        className="rounded-full border border-solid border-white flex items-center justify-center bg-black font-medium text-white text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 w-full sm:w-auto md:w-[158px]"
         href="/"
         rel="noopener noreferrer"
       >
