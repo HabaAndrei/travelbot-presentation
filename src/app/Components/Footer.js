@@ -32,6 +32,34 @@ export default function Footer() {
         />
         Developer account →
       </a>
+      <a
+        className="flex items-center gap-2 hover:underline hover:underline-offset-4"
+        href="https://apps.apple.com/us/app/travel-bot/id6744552358"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <Image
+          src="/app-store.svg"
+          alt="App store icon"
+          width={16}
+          height={16}
+        />
+        App in App Store →
+      </a>
+      <a
+        className="flex items-center gap-2 hover:underline hover:underline-offset-4"
+        href="https://play.google.com/store/apps/details?id=com.haba03.expoapp"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <Image
+          src="/google-play.svg"
+          alt="Google play icon"
+          width={16}
+          height={16}
+        />
+        App in Google play →
+      </a>
     </footer>
   );
 }
