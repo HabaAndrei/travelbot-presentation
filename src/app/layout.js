@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "Travelbot",
-  description: "Where Every Trip Finds Its Way",
+  description: "Travelbot is your intelligent travel assistant — helping you plan, discover, and book unforgettable journeys with ease. From personalized itineraries to smart recommendations, every trip finds its way with Travelbot.",
 };
 
 export default function RootLayout({ children }) {
