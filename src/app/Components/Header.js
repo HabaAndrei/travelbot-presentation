@@ -17,6 +17,7 @@ export default function Header() {
           gtag('config', 'G-8JJ76QCHTE');
         `}
       </Script>
+      <Script src="https://analytics.ahrefs.com/analytics.js" data-key="UlO2BqLQTLRhFstlmGdrAQ" async />
 
       <header className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center p-8 sm:p-20 font-[family-name:var(--font-geist-sans)]">
         <div className="flex flex-col gap-[32px] row-start-2 items-center">
